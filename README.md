@@ -1,1 +1,1 @@
-# Discord-Hone-Page
+# Discord-Home-Page
